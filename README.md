@@ -4,6 +4,8 @@ Market: DEN
 
 # From Idea to Website
 
+![Wiki Mockup](MockupWiki.png)
+
 ## Design
 
 <!--10-15 minutes -->
