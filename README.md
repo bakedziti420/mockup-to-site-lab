@@ -8,7 +8,11 @@ Market: DEN
 
 ## Design
 
-<!--10-15 minutes -->
+<!-- At the moment, this lab doesn't start till 11:20.  If that is the case, we'll need to shave a few minutes off each of these sections. -->
+
+<!--11:20 10-15 minutes -->
+
+<!-- Pair up similarly numbered fist-to-fives for this exercise. -->
 
 One of the best ways to sharpen your CSS skills is to try to create a page from an early-stage design called a "mockup".  With a partner, design a simple page that you've always wanted to see.  
 
@@ -19,10 +23,18 @@ One of the best ways to sharpen your CSS skills is to try to create a page from 
 - You must share your design on Slack
 
 ## Make It Real!
-<!-- 45 minutes -->
+<!--11:35 30 minutes -->
 Now the task is to turn this design into a real website with HTML and CSS.  There will be no starter code, only the code you write.
 
+Say, "Talk to you later," to your partner, and work independently to get this website as far as you can.
+
 Don't worry if you can't get it to look _exactly_ as you designed it but try your best to get as close as possible.
+
+Don't forget the **Read, Search, Ask** pattern for resolving your issues or questions.
+
+## Collaboration
+<!-- 12:05 10 minutes -->
+Take some time with your partner and see how you can improve each other's sites.  It is *totally acceptable* to steal ideas from your partner, but *no copy and paste*.
 
 ### Code Requirements
 
@@ -44,7 +56,7 @@ Don't worry if you can't get it to look _exactly_ as you designed it but try you
 - [CSS Reference from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ### Self Evaluation
-<!-- 5 minutes -->
+<!--12:15 5 minutes -->
 During the previous exercise, rate your progress on a scale of 1-5 (5 being the highest) for the following criteria:
 
 - **Persistence:** Do you handle frustration well? Do you independently pursue understanding?
