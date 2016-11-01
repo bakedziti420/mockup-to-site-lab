@@ -54,17 +54,6 @@ Take some time with your partner and see how you can improve each other's sites.
 
 - [CSS Reference from MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### Self Evaluation
-<!--12:15 5 minutes -->
-During the previous exercise, rate your progress on a scale of 1-5 (5 being the highest) for the following criteria:
-
-- **Persistence:** Do you handle frustration well? Do you independently pursue understanding?
-- **Organization:** Do you thoughtfully implement best coding patterns and practices?
-- **Collaboration:** Do you make an effort to solve problems and share your ideas with others?
-- **Communication:** Do you clearly convey your thoughts to others in illustrative and clear ways?
-- **Self-compassion:** Do you make productive use of turning failures into learning opportunities?
-- **Resourcefulness:** Do make an effort to compare and contrast new ideas with ones you already know? 
-
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
 All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
