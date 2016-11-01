@@ -20,7 +20,6 @@ One of the best ways to sharpen your CSS skills is to try to create a page from 
 
 - Your design should contain at least 4 objects
 - Your design should include at least one button, one text block, and one image
-- You must share your design on Slack
 
 ## Make It Real!
 <!--11:35 30 minutes -->
@@ -38,14 +37,14 @@ Take some time with your partner and see how you can improve each other's sites.
 
 ### Code Requirements
 
-- You must use display, clear, and floats to position elements on the page
+- You must use `display` and `position` to arrange elements on the page
 - You must look up and use at least two CSS properties or values that may not have been covered in class, for example:
   - `background: url("YOUR-LINK.COM")`
   - `list-style`
   - `text-decoration`
   - `text-transform`
 - You must use a single external CSS stylesheet to style all pages
-- You must use the images provided or others downloaded from the Internet to construct elements on the page
+- You must use images downloaded from the Internet to construct elements on the page
 - You must share a screenshot of your final product on Slack
 
 **Bonus:**
