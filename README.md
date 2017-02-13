@@ -31,10 +31,6 @@ Don't worry if you can't get it to look _exactly_ as you designed it but try you
 
 Don't forget the **Read, Search, Ask** pattern for resolving your issues or questions.
 
-## Collaboration
-<!-- 12:20 10 minutes -->
-Take some time with your partner and see how you can improve each other's sites.  It is *totally acceptable* to steal ideas from your partner, but *no copy and paste*.
-
 ### Code Requirements
 
 - You must use `display` and `position` to arrange elements on the page
@@ -49,6 +45,10 @@ Take some time with your partner and see how you can improve each other's sites.
 
 **Bonus:**
 - Throw in some animations, experiment with `hover`, make it fun.
+
+## Collaboration
+<!-- 12:20 10 minutes -->
+Take some time with your partner and see how you can improve each other's sites.  It is *totally acceptable* to steal ideas from your partner, but *no copy and paste*.
 
 ### Additional Resources
 
