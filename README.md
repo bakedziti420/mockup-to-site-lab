@@ -10,7 +10,7 @@ Market: DEN
 
 <!-- At the moment, this lab doesn't start till 11:20.  If that is the case, we'll need to shave a few minutes off each of these sections. -->
 
-<!--11:30 10 minutes -->
+<!--11:40 10 minutes -->
 
 <!-- Pair up similarly numbered fist-to-fives for this exercise. -->
 
@@ -22,7 +22,7 @@ One of the best ways to sharpen your CSS skills is to try to create a page from 
 - Your design should include at least one button, one text block, and one image
 
 ## Make It Real!
-<!--11:40 35 minutes -->
+<!--11:50 30 minutes -->
 Now the task is to turn this design into a real website with HTML and CSS.  There will be no starter code, only the code you write.
 
 Say, "Talk to you later," to your partner, and work independently to get this website as far as you can.
@@ -32,7 +32,7 @@ Don't worry if you can't get it to look _exactly_ as you designed it but try you
 Don't forget the **Read, Search, Ask** pattern for resolving your issues or questions.
 
 ## Collaboration
-<!-- 12:15 10 minutes -->
+<!-- 12:20 10 minutes -->
 Take some time with your partner and see how you can improve each other's sites.  It is *totally acceptable* to steal ideas from your partner, but *no copy and paste*.
 
 ### Code Requirements
