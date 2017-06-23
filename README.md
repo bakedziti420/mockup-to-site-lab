@@ -30,24 +30,25 @@ Now the task is to turn this design into a real website with HTML and CSS.  Ther
 
 Say, "Smell ya later!" to your partner, and work independently to get this website as far as you can.
 
-Don't worry if you can't get it to look _exactly_ as you designed it, but try your best to get as close as possible.
+Don't worry if you can't get it to look _exactly_ as you designed it, just try your best to get as close as possible.
 
 Don't forget the **Read, Search, Ask** pattern for resolving your issues or questions.
 
 ### Code Requirements
 
-- You must use `display` and `position` to arrange elements on the page
+- You must use `display`, `position`, and/or `float` to arrange elements on the page
 - You must look up and use at least two CSS properties or values that may not have been covered in class, for example:
-  - `background-image`
-  - `list-style`
-  - `text-decoration`
-  - `text-transform`
-- You must use a single external CSS stylesheet to style all pages
+      + `background-image`
+      + `list-style`
+      + `text-decoration`
+      + `text-transform`
+      + [any of these](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- You must use a single external CSS stylesheet to style all pages (no inline styles!)
 - You must use images downloaded from the Internet to construct elements on the page
 - You must share a screenshot of your final product on Slack
 
 **Bonus:**
-- Throw in some animations, experiment with `hover`, make it fun.
+- Throw in some animations, experiment with `hover`, make it fun!
 
 ## Collaboration
 <!-- 12:20 10 minutes -->
